@@ -2,7 +2,7 @@
 
 [🌐 Website](https://bhaskar2603.github.io/MarketMind_AI/) | [🤖 Backend Model](https://huggingface.co/spaces/Bhaskar2611/marketmind) | [💻 GitHub Repo](https://github.com/Bhaskar2603/MarketMind_AI)
 
-**MarketMind AI** is an AI-powered market intelligence tool that converts **real-time Google search data** into actionable business insights. Whether you're a startup founder validating a new idea, an SEO expert researching keywords, or an investor analyzing trends—**MarketMind** acts as your co-pilot.
+**MarketMind AI** is an AI-powered market intelligence tool that converts **real-time Google search data** into actionable business insights. Whether you're a startup founder validating a new idea, an SEO expert researching keywords, or an investor analyzing trends, **MarketMind** acts as your co-pilot.
 
 Built using **Gradio**, **Serpstack API**, and the **Qwen2.5-7B-Instruct** LLM, this tool provides deep insights into:
 - Competitor analysis
